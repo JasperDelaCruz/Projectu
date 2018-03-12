@@ -1,2 +1,0 @@
-# Projectu
-Testing zone
